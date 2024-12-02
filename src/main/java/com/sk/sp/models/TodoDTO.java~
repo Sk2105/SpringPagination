@@ -1,0 +1,4 @@
+package com.sk.sp.models;
+
+public class TodoDTO {
+}
